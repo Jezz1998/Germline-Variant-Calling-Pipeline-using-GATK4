@@ -83,8 +83,6 @@ gatk --help
 ```
 
 
-```
-
 ---
 
 # Installation Verification
