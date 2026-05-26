@@ -474,3 +474,26 @@ The pipeline generates:
 * Variant filtering thresholds were based on GATK Best Practices.
 * Funcotator annotation is optional but recommended.
 * Further downstream analysis can be performed using R, Python, Excel, or visualization tools.
+
+# Author
+
+**Mohamed Jaseem Mohamed Jasee**  
+MSc Computational Biology  
+University of Kerala  
+
+### Research Interests
+- Computational Biology
+- Bioinformatics
+- Metagenomics
+- Variant Analysis
+- Machine Learning in Genomics
+
+---
+
+# Support the Project
+
+If you found this repository useful for learning or research:
+
+⭐ Please consider giving this repository a star on GitHub.
+
+It helps others discover the project and motivates further development of open-source bioinformatics workflows.
